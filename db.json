@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "Mani Tripathi",
+      "username": "mani_tripathi_",
+      "email": "manitripathi.023@gmail.com",
+      "phone": "8533974635",
+      "id": 1
+    },
+    {
+      "name": "Amisha Patel",
+      "username": "patel_amisha",
+      "email": "amisha@gmail.com",
+      "phone": "999999999",
+      "id": 2
+    },
+    {
+      "name": "Charu Tripathi",
+      "username": "charu_tri",
+      "email": "charu@gmail.com",
+      "phone": "987543210",
+      "id": 3
+    }
+  ]
+}
